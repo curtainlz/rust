@@ -1,1 +1,2 @@
-"# rust" 
+# RUST BASE KNOWLEDGE
+
